@@ -1,4 +1,6 @@
 # samsung-riscv
+
+# Task 1
 ## Trying a sample code
 ![Screenshot from 2025-01-06 22-11-12](https://github.com/user-attachments/assets/2f580429-fe58-490c-bd09-2052a8898644)
 
@@ -13,6 +15,7 @@
 ![Screenshot from 2025-01-06 22-26-40](https://github.com/user-attachments/assets/1e9554e6-c8c3-4f61-8141-bc8d95d7eaa8)
 ![Screenshot from 2025-01-06 22-12-13](https://github.com/user-attachments/assets/c379680d-91c1-41e5-877d-f3fcdd0c7992)
 
+# Task 2
 ## Code for the calculation of sum from 1 to 100
 ![Screenshot from 2025-01-13 23-12-00](https://github.com/user-attachments/assets/ad072eba-02b0-4a4e-9626-4fa80c809dee)
 
