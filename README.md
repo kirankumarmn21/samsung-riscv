@@ -24,3 +24,7 @@
 
 ## Debugging the Instruction:
 ![Screenshot from 2025-01-13 23-48-19](https://github.com/user-attachments/assets/a4b6829b-145a-4cfb-a2a7-10db0998ae2f)
+
+## checking the Debugging:
+![Screenshot 2025-01-13 235158](https://github.com/user-attachments/assets/049acd20-2c9a-4288-9866-33427b13d77a)
+
