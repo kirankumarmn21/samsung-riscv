@@ -31,3 +31,5 @@
 ## checking the Debugging:
 ![Screenshot 2025-01-13 235158](https://github.com/user-attachments/assets/049acd20-2c9a-4288-9866-33427b13d77a)
 
+# Task 3
+[Task_3.pdf](https://github.com/user-attachments/files/18457500/Task_3.pdf)
